@@ -1,4 +1,4 @@
-# Algo_hw_Olymp
+# Algo_hw_14
 Otus-Algo, Homework 14 - Olymp (a few tasks for dynamic programming)
 
 Задачи на динамическое программирование
